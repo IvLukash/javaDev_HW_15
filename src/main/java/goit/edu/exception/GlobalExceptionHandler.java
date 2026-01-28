@@ -1,4 +1,4 @@
-package goit.edu.web.exeption;
+package goit.edu.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.ui.Model;

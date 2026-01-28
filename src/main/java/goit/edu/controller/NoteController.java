@@ -1,8 +1,8 @@
-package goit.edu.web.controller;
+package goit.edu.controller;
 
 import goit.edu.model.Note;
 import goit.edu.service.NoteServiceImpl;
-import goit.edu.web.webhelper.UserSession;
+import goit.edu.webhelper.UserSession;
 import jakarta.servlet.http.HttpSession;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
